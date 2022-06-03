@@ -1,0 +1,24 @@
+#c-red {
+    color: #C62C45;
+}
+.c-white {
+    color: #fff;
+}
+.c-grey {
+    color: #69696b;
+}
+.bgc-black {
+    background-color: #333337;
+}
+.bgi-url {
+    background-image: linear-gradient(to right, rgba(4, 4, 4, 0.8), rgba(4, 4, 4, 0.8)),
+    url(../img/header-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bgc-blue {
+    background-color: rgb(72, 72, 241);
+}
+.bgc-green {
+    background-color: rgb(10, 168, 10);
+}
